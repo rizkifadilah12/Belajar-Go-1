@@ -1,0 +1,34 @@
+---------tipe data integer 1--------------------
+int8 -> Nilai minimun = -128 -> nilai maksimum = 127
+int16 -> Nilai minimun = -32768 -> nilai maksimum = 32767
+int32 -> Nilai minimun = -2147483648 -> nilai maksimum = 214783647
+int64 -> Nilai minimun = -9223372036854775808 -> nilai maksimum = 9223372036854775807
+
+---------------unsint integer/integer 2-----------
+uint8 -> Nilai minimun = 0 -> nilai maksimum = 255
+uint16 -> Nilai minimun = 0 -> nilai maksimum = 65535
+uint32 -> Nilai minimun = 0 -> nilai maksimum = 4294967295
+uint64 -> Nilai minimun = 0 -> nilai maksimum = 18446744073709551615
+
+---------------tipe data floating point------------
+float32 -> Nilai Minimum = 1.18 x 10^-38 -> Nilai Maksimum = 3.4 x 10^38
+float64 -> Nilai Minimum = 2.23 x 10^-308 -> Nilai Maksimum  1.80 x 10^308
+
+---------------Alias-----------------------------
+tipe data byte = uint8
+tipe data rune = int32
+tipe data int = minimal int32
+tipe data uint = minimal uint32
+
+---------------boolean--------------------------
+true =  benar
+false = salah
+
+----------------string-------------------------
+len("string") = menghitung jumlah karakter
+"string"[number] = mengambil karakter pada posisi yang di tentukan
+
+--------oprasi boolean----------
+&& = dan
+|| = atau
+! = kebalikan
